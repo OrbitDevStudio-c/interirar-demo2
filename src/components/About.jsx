@@ -87,7 +87,7 @@ export default function About() {
                   <div className="w-10 h-10 bg-[#C5A880]/10 border border-[#C5A880]/30 flex items-center justify-center text-[#C5A880] mb-4 group-hover:bg-[#C5A880] group-hover:text-[#121212] transition-colors">
                     <PenTool className="w-5 h-5" />
                   </div>
-                  <h4 className="font-serif text-xl text-[#F5F5F5] group-hover:text-[#C5A880] transition-colors">Vansh</h4>
+                  <h4 className="font-serif text-xl text-[#F5F5F5] group-hover:text-[#C5A880] transition-colors">Rachel</h4>
                   <p className="text-[11px] font-mono text-[#C5A880] uppercase tracking-widest mt-1">Principal Interior Director</p>
                   <p className="text-xs text-gray-400 font-light leading-relaxed mt-3">
                     Architectural visionary shaping spatial narratives through haute-couture textures, sculptural lighting, and Italian natural stones.
@@ -99,7 +99,7 @@ export default function About() {
                   <div className="w-10 h-10 bg-[#C5A880]/10 border border-[#C5A880]/30 flex items-center justify-center text-[#C5A880] mb-4 group-hover:bg-[#C5A880] group-hover:text-[#121212] transition-colors">
                     <Code className="w-5 h-5" />
                   </div>
-                  <h4 className="font-serif text-xl text-[#F5F5F5] group-hover:text-[#C5A880] transition-colors">Ridham</h4>
+                  <h4 className="font-serif text-xl text-[#F5F5F5] group-hover:text-[#C5A880] transition-colors">Anit</h4>
                   <p className="text-[11px] font-mono text-[#C5A880] uppercase tracking-widest mt-1">Chief Digital Engineer</p>
                   <p className="text-xs text-gray-400 font-light leading-relaxed mt-3">
                     Engineering digital editorial perfection, ensuring flawless responsiveness, zero layout shift (CLS), and fluid micro-interactions.

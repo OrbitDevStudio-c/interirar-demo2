@@ -112,8 +112,8 @@ export default function Footer({ companyName = "AURA" }) {
             </li>
             <li className="flex items-center gap-3">
               <Phone className="w-4 h-4 text-[#C5A880] shrink-0" />
-              <a href="tel:+41442110000" className="hover:text-[#C5A880] transition-colors">
-                +41 (44) 211-0000
+              <a href="tel: +41-785-552-195 " className="hover:text-[#C5A880] transition-colors">
+                +41-785-552-195 
               </a>
             </li>
           </ul>
@@ -126,11 +126,15 @@ export default function Footer({ companyName = "AURA" }) {
           &copy; {new Date().getFullYear()} Aura Design Studio. All Rights Reserved.
         </div>
 
-        <div className="flex items-center gap-2 bg-white/5 border border-white/10 px-4 py-2">
-          <span>Vision by <strong className="text-[#C5A880] font-normal">Vansh</strong></span>
-          <span className="text-gray-600">|</span>
-          <span>Engineered by <strong className="text-[#C5A880] font-normal">Ridham</strong></span>
-        </div>
+        <a
+          href="https://orbit-dev-studio.vercel.app/"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="flex items-center gap-2 bg-white/5 border border-white/10 px-4 py-2"
+        >
+          <img src="/companylogo.png" alt="OrbitDevStudios" className="h-5 w-auto" />
+          <span>Created &amp; Developed by <strong className="text-[#C5A880] font-normal">OrbitDevStudios</strong></span>
+        </a>
       </div>
     </footer>
   );

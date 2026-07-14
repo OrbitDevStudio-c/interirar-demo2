@@ -5,11 +5,11 @@ import { Plus, Minus } from "lucide-react";
 const FAQS = [
   {
     question: "What defines the Aura Design Studio architectural aesthetic?",
-    answer: "We specialize in Haute Editorial Luxury — an interplay of bookmatched natural marble, bronze profile accents, concealed lighting, and acoustic organic textures. Principal designer Vansh crafts each residence as a custom legacy project."
+    answer: "We specialize in Haute Editorial Luxury — an interplay of bookmatched natural marble, bronze profile accents, concealed lighting, and acoustic organic textures. Principal designer Rachel crafts each residence as a custom legacy project."
   },
   {
     question: "What is the typical investment timeline for a bespoke penthouse or villa?",
-    answer: "Turnkey penthouses typically span 90 to 120 days from schematic approval to handover. Grand architectural villas range between 150 and 240 days. Every phase is tracked via automated milestones managed by lead engineer Ridham."
+    answer: "Turnkey penthouses typically span 90 to 120 days from schematic approval to handover. Grand architectural villas range between 150 and 240 days. Every phase is tracked via automated milestones managed by lead engineer Anit."
   },
   {
     question: "How do you handle global material procurement?",

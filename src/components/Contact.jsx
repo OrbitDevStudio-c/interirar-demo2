@@ -106,7 +106,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <span className="text-[10px] font-mono text-gray-400 uppercase tracking-widest block mb-0.5">Direct Line</span>
-                    <a href="tel:+41442110000" className="text-[#C5A880] hover:underline">+41 (44) 211-0000</a>
+                    <a href="tel:+41442110000" className="text-[#C5A880] hover:underline">+41-785-552-195</a>
                   </div>
                 </div>
 
@@ -140,7 +140,7 @@ export default function Contact() {
                     </div>
                     <h3 className="font-serif text-3xl text-[#F5F5F5]">Inquiry Received</h3>
                     <p className="text-sm font-sans font-light text-gray-300 max-w-md mx-auto leading-relaxed">
-                      Thank you, <strong className="text-[#C5A880] font-normal">{formData.name}</strong>. Our atelier concierge and principal designer Vansh will reach out shortly.
+                      Thank you, <strong className="text-[#C5A880] font-normal">{formData.name}</strong>. Our atelier concierge and principal designer Rachel will reach out shortly.
                     </p>
                     <button
                       onClick={() => setSubmitted(false)}

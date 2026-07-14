@@ -7,7 +7,7 @@ export default function Process() {
     {
       num: "01",
       title: "Private Atelier Consultation",
-      desc: "An in-depth spatial dialogue with principal designer Vansh. We articulate your lifestyle rhythms, material preferences, and architectural vision.",
+      desc: "An in-depth spatial dialogue with principal designer Rachel. We articulate your lifestyle rhythms, material preferences, and architectural vision.",
       icon: MessageSquare,
       image: "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=800&q=70",
     },
@@ -28,7 +28,7 @@ export default function Process() {
     {
       num: "04",
       title: "Artisanal Execution & Engineering",
-      desc: "Directed on-site by lead engineer Ridham. Master artisans install custom millwork, bookmatched stone, and automated environmental tech.",
+      desc: "Directed on-site by lead engineer Anit. Master artisans install custom millwork, bookmatched stone, and automated environmental tech.",
       icon: Hammer,
       image: "https://images.unsplash.com/photo-1581858726788-75bc0f6a952d?auto=format&fit=crop&w=800&q=70",
     },

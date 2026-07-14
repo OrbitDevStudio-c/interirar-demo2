@@ -26,7 +26,7 @@ export default function WhyChooseUs() {
     },
     {
       title: "Dual Mastery Team",
-      desc: "Co-directed by principal designer Vansh and senior digital engineer Ridham for seamless execution.",
+      desc: "Co-directed by principal designer Rachel and senior digital engineer Anit for seamless execution.",
       icon: Users
     },
     {

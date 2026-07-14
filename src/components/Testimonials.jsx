@@ -9,7 +9,7 @@ const TESTIMONIALS = [
     role: "Estate Principals",
     photo: "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&h=300&q=80",
     rating: 5,
-    review: "Collaborating with principal designer Vansh was an absolute masterclass in architectural elevation. He transformed our cliffside plot into an organic glass sanctuary. The execution by Ridham's engineering team was flawless."
+    review: "Collaborating with principal designer Rachel was an absolute masterclass in architectural elevation. He transformed our cliffside plot into an organic glass sanctuary. The execution by Anit's engineering team was flawless."
   },
   {
     name: "Rohan Sen",

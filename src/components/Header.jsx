@@ -183,9 +183,6 @@ export default function Header({ companyName = "AURA" }) {
                   <Phone className="w-4 h-4" />
                   <span>Request Private Consultation</span>
                 </a>
-                <p className="text-[11px] text-gray-500 font-mono text-center">
-                  Curated by Vansh | Engineered by Ridham
-                </p>
               </div>
             </motion.div>
           </motion.div>

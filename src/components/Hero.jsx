@@ -166,10 +166,6 @@ export default function Hero() {
         <div className="text-[10px] uppercase tracking-[0.3em] text-[#C5A880] mb-2 font-mono">Featured Residence</div>
         <h2 className="text-xl font-serif text-[#F5F5F5] mb-1">{HERO_SLIDES[currentIndex].location}</h2>
         <p className="text-xs text-gray-400 font-light mb-4">Bespoke Architectural Engineering & Styling</p>
-        <div className="flex items-center justify-between border-t border-white/10 pt-3 text-[11px] text-gray-300">
-          <span>Vision by <strong className="text-[#C5A880] font-normal">Vansh</strong></span>
-          <span>Build by <strong className="text-[#C5A880] font-normal">Ridham</strong></span>
-        </div>
       </motion.div>
 
       {/* Controls & Slide Counter */}
